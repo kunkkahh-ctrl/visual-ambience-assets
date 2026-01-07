@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-07",
+  "scenes": [
+    {
+      "id": "cozy_fireplace",
+      "title": "Cozy Fireplace",
+      "category": "Fireplace",
+      "videoUrl": "https://raw.githubusercontent.com/kunkkahh-ctrl/visual-ambience-assets/main/fireplace01.mp4",
+      "thumbnailUrl": "https://raw.githubusercontent.com/kunkkahh-ctrl/visual-ambience-assets/main/fireplace01.png"
+    }
+  ]
+}
