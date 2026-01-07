@@ -1,20 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-07",
+  "updatedAt": "2026-01-07T00:00:00Z",
   "scenes": [
     {
       "id": "cozy_fireplace",
       "title": "Cozy Fireplace",
       "category": "Fireplace",
-      "videoUrl": "https://raw.githubusercontent.com/kunkkahh-ctrl/visual-ambience-assets/main/fireplace01.mp4",
-      "thumbnailUrl": "https://raw.githubusercontent.com/kunkkahh-ctrl/visual-ambience-assets/main/fireplace01.png"
+      "videoUrl": "https://github.com/kunkkahh-ctrl/visual-ambience-assets/raw/refs/heads/main/cozyfireplace.mp4",
+      "thumbnailUrl": "https://github.com/kunkkahh-ctrl/visual-ambience-assets/blob/main/fireplace01.png?raw=true"
     },
     {
       "id": "modern_fireplace",
       "title": "Modern Fireplace",
       "category": "Fireplace",
-      "videoUrl": "https://raw.githubusercontent.com/kunkkahh-ctrl/visual-ambience-assets/main/modernfireplace.mp4",
-      "thumbnailUrl": "https://raw.githubusercontent.com/kunkkahh-ctrl/visual-ambience-assets/main/modernfireplacethumbnail.png"
+      "videoUrl": "https://github.com/kunkkahh-ctrl/visual-ambience-assets/raw/refs/heads/main/modernfireplace.mp4",
+      "thumbnailUrl": "https://github.com/kunkkahh-ctrl/visual-ambience-assets/blob/main/modernfireplacethumbnail.png?raw=true"
     }
   ]
 }
